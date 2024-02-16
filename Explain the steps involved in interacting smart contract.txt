@@ -1,0 +1,13 @@
+* Explain the steps involved in interacting with the Smart contract
+  using Truffle develop.
+
+- Install Truffle
+- Open the terminal or command prompt.
+- Type the following command to install Truffle globally: npm install -g truffle.
+- Open Ganache and create a new workspace.
+- Configure the workspace by setting the number of accounts, block gas limit, and other parameters as needed.
+- Connect Truffle to Ganache
+- Test the installation
+- Choosing a development environment
+- Compiling the code
+- Testing the contract

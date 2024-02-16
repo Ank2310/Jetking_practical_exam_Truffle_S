@@ -1,0 +1,11 @@
+* Demonstrate the process of migrating the smart contract with
+  Truffle Develop. 
+
+- First we need Truffle suite enviornment and the components to migrate the smart contract
+- These components are : Truffle, Ganache and Drizzle
+- For that we have to install tuffle suite in system using command
+   npm install -g truffle
+- And also other components with it.
+- Then we create a truffle project with help of truffle box 
+- And after that we create a smart contract in it and first deploy the smart contarct then migrate it.
+
